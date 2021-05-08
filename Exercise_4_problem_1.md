@@ -30,7 +30,7 @@ def fahr_to_celsius(temp_fahrenheit):
   converted_temp=(temp_fahrenheit-32)/1.8
   return converted_temp
 
-  
+
 ### Problem 1 tests
 
 ```python
@@ -55,7 +55,8 @@ We would like you to think about and answer the following questions based on the
 Write your answers below.
 
 YOUR ANSWER HERE
-
+#1. Yes.
+#2. Everyone can use them.
 #### Done!
 
 That's it! Now you are ready to continue with [Problem 2](Exercise-4-problem-2.ipynb).
